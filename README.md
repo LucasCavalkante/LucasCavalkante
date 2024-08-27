@@ -6,7 +6,7 @@ Olá! Meu nome é Lucas Cavalcante, e almejo ser um futuro desenvolvedor Full Cy
 
 Após alguns anos trabalhando em diversos setores do agronegócio brasileiro, cheguei à conclusão de que precisava adquirir novas habilidades para alcançar meus objetivos.
 
-Apesar de ser um iniciante, estou comprometido em aprender e me desenvolver continuamente. Espero poder contribuir de alguma forma com o sucesso das pessoas ao meu redor. E vamos juntos transformar ideias em conquistas!
+Apesar de ser um iniciante, estou comprometido em aprender e me desenvolver continuamente. Espero poder contribuir de alguma forma com o sucesso das pessoas ao meu redor. E vamos juntos transformar ideias em conquistas!🚀
 
 
 #
