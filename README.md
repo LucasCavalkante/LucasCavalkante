@@ -6,7 +6,7 @@ Olá! Meu nome é Lucas Cavalcante, e almejo ser um futuro desenvolvedor Full Cy
 
 Após alguns anos trabalhando em diversos setores do agronegócio brasileiro, cheguei à conclusão de que precisava adquirir novas habilidades para alcançar meus objetivos.
 
-Apesar de ser um iniciante, estou comprometido em aprender e me desenvolver continuamente. Espero poder contribuir de alguma forma com o sucesso das pessoas ao meu redor. E vamos juntos transformar ideias em conquistas!🚀
+Apesar de ser um iniciante, estou comprometido em aprender e me desenvolver continuamente. Espero poder contribuir de alguma forma com o sucesso das pessoas ao meu redor. Let's make the change!🚀
 
 
 #
@@ -37,6 +37,7 @@ Apesar de ser um iniciante, estou comprometido em aprender e me desenvolver cont
   <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img align="center" alt="NoSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
